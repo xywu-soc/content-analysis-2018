@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT from="my_dataset">
+<Participants>
+<participant id="Laura" name="Laura" role="Adult" language="eng"/>
+<participant id="Brooke" name="Brooke" role="Adult" language="eng"/>
+<participant id="Alex" name="Alex" role="Adult" language="eng"/>
+<participant id="Myrtle" name="Myrtle" role="Adult" language="eng"/>
+<participant id="Dimitri" name="Dimitri" role="Adult" language="eng"/>
+<participant id="Ryan" name="Ryan" role="Adult" language="eng"/>
+<participant id="Edmund" name="Edmund" role="Adult" language="eng"/>
+<participant id="Maddie" name="Maddie" role="Adult" language="eng"/>
+<participant id="Gillian" name="Gillian" role="Adult" language="eng"/>
+<participant id="Eugenia" name="Eugenia" role="Adult" language="eng"/>
+</Participants>
+
+<u who="Ryan" uID="#6">
+<w>['You', 'look', 'beyond', 'beautiful', '.']</w>
+<media start="0.3333333333333333" end="1.6666666666666667" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['So', 'do', 'you', '.']</w>
+<media start="2.0" end="3.0" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['That', 'dress', '.']</w>
+<media start="3.3333333333333335" end="4.0" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['It', 'was', 'my', 'great-great-grandmother', "'s", '.']</w>
+<w>['Grandmama', 'saved', 'it', 'for', 'me', 'to', 'wear', 'on', 'my', 'wedding', 'day', '.']</w>
+<media start="4.333333333333333" end="9.333333333333334" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['How', 'do', 'you', 'like', 'my', 'tux', '?']</w>
+<media start="9.666666666666666" end="11.666666666666666" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['You', 'are', 'quite', 'dashing', '.']</w>
+<media start="12.0" end="13.333333333333334" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['Dimitri', 'arranged', 'it', '.']</w>
+<w>['Everything', 'from', 'my', 'cummerbund', 'right', 'down', 'to', 'the', 'cufflinks', '.']</w>
+<media start="13.666666666666666" end="17.666666666666668" unit="s"/>
+</u>
+
+<u who="Dimitri" uID="#5">
+<w>['You', 'know', ',', 'I', 'wish', 'I', 'could', 'say', 'that', 'it', 'belonged', 'to', 'some', 'illustrious', 'ancestor', ',', 'but', 'the', 'truth', 'is', 'it', "'s", 'descended', 'from', 'Lacey', "'s", 'on', 'the', 'mall', '.']</w>
+<media start="18.0" end="26.333333333333332" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['It', "'s", 'perfect', '.']</w>
+<media start="26.666666666666668" end="27.333333333333332" unit="s"/>
+</u>
+
+<u who="Dimitri" uID="#5">
+<w>['It', "'s", 'your', 'wedding', 'day', '.']</w>
+<w>['Street', 'clothes', 'at', 'the', 'town', 'hall', 'were', 'just', 'not', 'going', 'to', 'cut', 'it', '.']</w>
+<w>['So', ',', 'how', 'do', 'you', 'guys', 'like', 'your', 'wedding', 'chapel', '?']</w>
+<media start="27.666666666666668" end="36.333333333333336" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['Wow', '.']</w>
+<w>['Looks', 'familiar', ',', 'does', "n't", 'it', '?']</w>
+<media start="36.666666666666664" end="38.333333333333336" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['Yeah', '.']</w>
+<w>['We', "'ve", 'walked', 'down', 'this', 'aisle', 'once', 'before', '.']</w>
+<media start="38.666666666666664" end="41.333333333333336" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['Yes', ',', 'we', 'have', ',', 'but', 'this', 'time', 'we', "'re", 'going', 'to', 'get', 'it', 'right', '.']</w>
+<media start="41.666666666666664" end="45.666666666666664" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['This', 'time', 'our', 'vows', 'will', 'be', 'final', 'and', 'forever', '.']</w>
+<media start="46.0" end="49.0" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['Dimitri', ',', 'it', 'means', 'a', 'lot', 'to', 'have', 'the', 'wedding', 'here', '.']</w>
+<w>['Thank', 'you', '.']</w>
+<media start="49.333333333333336" end="53.333333333333336" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['Oh', ',', 'Dimitri', ',', 'I', 'ca', "n't", 'believe', '--', 'I', 'ca', "n't", 'believe', 'you', 'did', 'this', 'just', 'for', 'us', '.']</w>
+<media start="53.666666666666664" end="58.666666666666664" unit="s"/>
+</u>
+
+<u who="Dimitri" uID="#5">
+<w>['Well', ',', 'I', 'did', "n't", '.']</w>
+<w>['No', ',', 'I', 'did', "n't", '.']</w>
+<w>['You', 'see', ',', 'actually', ',', 'you', 'two', 'were', 'planning', 'on', 'having', 'a', 'plain-wrap', 'wedding', 'at', 'the', 'town', 'hall', 'with', 'no', 'guests', '.']</w>
+<w>['But', 'those', 'who', 'loved', 'you', ',', 'they', 'wanted', 'to', 'see', 'you', 'get', 'married', 'in', 'style', '.']</w>
+<media start="59.0" end="72.0" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['Well', ',', 'we', 'did', "n't", 'want', 'to', 'make', 'a', 'big', 'fuss', '.']</w>
+<media start="72.33333333333333" end="75.33333333333333" unit="s"/>
+</u>
+
+<u who="Dimitri" uID="#5">
+<w>['Oh', ',', 'please', ',', 'come', 'on', '.']</w>
+<w>['It', "'s", 'the', 'biggest', 'day', 'of', 'your', 'lives', '.']</w>
+<w>['Gillian', ',', 'you', 'and', 'Ryan', '--', 'you', 'two', 'honestly', 'deserve', 'the', 'best', 'of', 'everything', '.']</w>
+<w>['And', 'after', 'all', ',', 'you', "'re", 'an', 'Andrassy', '.']</w>
+<w>['And', 'you', 'should', 'be', 'married', 'in', 'the', 'style', 'befitting', 'an', 'Andrassy', '.']</w>
+<w>['[', 'Claps', 'hands', ']']</w>
+<media start="75.66666666666667" end="90.0" unit="s"/>
+</u>
+
+<u who="Eugenia" uID="#10">
+<w>['Oh', '!']</w>
+<media start="90.33333333333333" end="90.66666666666667" unit="s"/>
+</u>
+
+<u who="Myrtle" uID="#4">
+<w>['Oh', '--']</w>
+<media start="91.0" end="91.66666666666667" unit="s"/>
+</u>
+
+<u who="Laura" uID="#1">
+<w>['You', 'look', 'beautiful', '!']</w>
+<media start="92.0" end="93.0" unit="s"/>
+</u>
+
+<u who="Brooke" uID="#2">
+<w>['Congratulations', '.']</w>
+<media start="93.33333333333333" end="93.66666666666667" unit="s"/>
+</u>
+
+<u who="Myrtle" uID="#4">
+<w>['Oh', ',', 'Gillian', ',', 'how', 'gorgeous', '.']</w>
+<media start="94.0" end="95.33333333333333" unit="s"/>
+</u>
+
+<u who="Edmund" uID="#7">
+<w>['Surprised', '?']</w>
+<media start="95.66666666666667" end="96.0" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['Oh', ',', 'Edmund', ',', 'I', 'ca', "n't", 'believe', 'you', 'did', 'this', 'for', 'us', '.']</w>
+<media start="96.33333333333333" end="99.66666666666667" unit="s"/>
+</u>
+
+<u who="Alex" uID="#3">
+<w>['Are', 'you', 'happy', '?']</w>
+<media start="100.0" end="101.0" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['Yes', ',', 'we', 'are', '.']</w>
+<w>['How', 'did', 'you', 'do', 'it', '?']</w>
+<w>['I', 'do', "n't", 'know', '--', 'how', 'did', 'you', 'have', 'time', 'to', 'plan', 'all', 'of', 'this', '?']</w>
+<media start="101.33333333333333" end="108.66666666666667" unit="s"/>
+</u>
+
+<u who="Edmund" uID="#7">
+<w>['Oh', ',', 'we', "'re", 'just', 'sneaky', ',', 'that', "'s", 'all', '.']</w>
+<media start="109.0" end="111.0" unit="s"/>
+</u>
+
+<u who="Alex" uID="#3">
+<w>['Yeah', ',', 'we', 'had', '--', 'the', 'elves', 'were', 'working', 'all', 'night', 'long', '.']</w>
+<media start="111.33333333333333" end="115.0" unit="s"/>
+</u>
+
+<u who="Maddie" uID="#8">
+<w>['Were', 'there', 'really', 'elves', ',', 'Daddy', '?']</w>
+<media start="115.33333333333333" end="117.0" unit="s"/>
+</u>
+
+<u who="Edmund" uID="#7">
+<w>['Oh', ',', 'yeah', '.']</w>
+<w>['Look', '.']</w>
+<media start="117.33333333333333" end="118.33333333333333" unit="s"/>
+</u>
+
+<u who="Maddie" uID="#8">
+<w>['It', "'s", 'pixie', 'dust', '.']</w>
+<media start="118.66666666666667" end="119.66666666666667" unit="s"/>
+</u>
+
+<u who="Edmund" uID="#7">
+<w>['It', 'is', '?']</w>
+<w>['Is', 'there', 'a', 'difference', '?']</w>
+<media start="120.0" end="122.0" unit="s"/>
+</u>
+
+<u who="Alex" uID="#3">
+<w>['Oh', ',', 'he', "'s", 'hopeless', '.']</w>
+<w>['Come', 'on', ',', 'we', "'ll", 'explain', 'it', 'to', 'him', 'later', '.']</w>
+<media start="122.33333333333333" end="126.0" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['Oh', ',', 'look', 'how', 'grown', 'up', 'you', 'two', 'are', '.']</w>
+<media start="126.33333333333333" end="129.0" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['Were', 'you', 'guys', 'behind', 'this', 'whole', 'surprise', 'wedding', 'biz', '?']</w>
+<w>['Was', 'that', 'you', '?']</w>
+<w>['Were', 'you', '?']</w>
+<w>['Yeah', ',', 'I', 'think', 'so', '.']</w>
+<media start="129.33333333333334" end="135.33333333333334" unit="s"/>
+</u>
+
+<u who="Eugenia" uID="#10">
+<w>['You', 'know', ',', 'talking', 'of', 'surprises', ',', 'some', 'wonderful', 'people', 'have', 'flown', 'all', 'the', 'way', 'over', 'from', 'Budapest', 'just', 'to', 'share', 'this', 'day', 'with', 'you', '.']</w>
+<w>['There', '.']</w>
+<media start="135.66666666666666" end="143.66666666666666" unit="s"/>
+</u>
+
+<u who="Gillian" uID="#9">
+<w>['[', 'Screams', ']', 'Lazlo', '!']</w>
+<w>['Bela', '!']</w>
+<w>['These', 'are', 'my', 'cousins', 'from', 'Hungary', '!']</w>
+<media start="144.0" end="147.0" unit="s"/>
+</u>
+
+<u who="Ryan" uID="#6">
+<w>['Nice', 'to', 'meet', 'you', '.']</w>
+<media start="147.33333333333334" end="148.66666666666666" unit="s"/>
+</u>
+
+<u who="Brooke" uID="#2">
+<w>['Does', "n't", 'Gillian', 'look', 'gorgeous', '?']</w>
+<media start="149.0" end="150.33333333333334" unit="s"/>
+</u>
+
+<u who="Laura" uID="#1">
+<w>['Yeah', '.']</w>
+<w>['I', 'hate', 'her', '.']</w>
+<media start="150.66666666666666" end="152.0" unit="s"/>
+</u>
+
+<u who="Brooke" uID="#2">
+<w>['Oh', ',', 'me', ',', 'too', '.']</w>
+<media start="152.33333333333334" end="153.33333333333334" unit="s"/>
+</u>
+
+<u who="Laura" uID="#1">
+<w>['Just', 'kidding', '.']</w>
+<w>['Oh', ',', 'it', 'would', 'be', 'so', 'typical', 'of', 'him', 'to', 'be', 'late', '.']</w>
+<media start="153.66666666666666" end="158.0" unit="s"/>
+</u>
+
+<u who="Brooke" uID="#2">
+<w>['Late', '?']</w>
+<w>['Who', '?']</w>
+<w>['Who', "'s", 'late', '?']</w>
+<media start="158.33333333333334" end="159.66666666666666" unit="s"/>
+</u>
+
+<u who="Laura" uID="#1">
+<w>['Leo', '.']</w>
+<media start="160.0" end="160.33333333333334" unit="s"/>
+</u>
+
+<u who="Brooke" uID="#2">
+<w>['Leo', '?']</w>
+<w>['Is', 'Leo', 'your', 'date', '?']</w>
+<media start="160.66666666666666" end="162.33333333333334" unit="s"/>
+</u>
+
+<u who="Laura" uID="#1">
+<w>['Well', ',', 'he', "'s", 'Ryan', "'s", 'best', 'man', ',', 'and', 'so', 'far', 'he', "'s", 'a', 'no-show', '.']</w>
+<media start="162.66666666666666" end="166.33333333333334" unit="s"/>
+</u>
+
+</CHAT>
+
